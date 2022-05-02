@@ -10,6 +10,18 @@ class Pokemon {
     const { name } = await PokemonModel.findOne({ id });
     return { id, name };
   }
+
+  static async findAll(){
+    return PokemonModel.find({})
+  }
+
+  static async findPokemonsByType({ type }){
+    return PokemonModel.find({$or:[{typeOne:type}, {typeTwo:type}]})
+  }
+
+  static async getPokemonCount(){
+    return PokemonModel.find({}).count()
+  }
 }
 
 export { Pokemon };
