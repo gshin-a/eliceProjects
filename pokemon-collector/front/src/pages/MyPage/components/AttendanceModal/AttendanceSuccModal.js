@@ -26,16 +26,14 @@ function AttendanceSuccModal({
 	};
 
 	const handleGetPoint = async () => {
-		const res = await Api.put('user/checkIn');
+		await Api.put('user/checkIn');
 		fetchUserInfo();
-		console.log(res);
 		setAttdSuccModalOpen(true);
 	};
 
 	return (
 		<Modal
 			open={!attdSuccModalOpen}
-			e
 			aria-labelledby='modal-modal-title'
 			aria-describedby='modal-modal-description'
 		>
