@@ -1,0 +1,16 @@
+{
+  "cls_token": "[CLS]",
+  "do_basic_tokenize": true,
+  "do_lower_case": false,
+  "mask_token": "[MASK]",
+  "model_max_length": 512,
+  "name_or_path": "beomi/KcELECTRA-base",
+  "never_split": null,
+  "pad_token": "[PAD]",
+  "sep_token": "[SEP]",
+  "special_tokens_map_file": "/home/elice/.cache/huggingface/transformers/6bddca875f34b8afbae26136b9594ea80793c9598640f0bc94017555a0a1c113.31b83c6ab34462cefd974ed0df8dd4189e7b7b81b47315b7a10627f7ae120002",
+  "strip_accents": null,
+  "tokenize_chinese_chars": true,
+  "tokenizer_class": "BertTokenizer",
+  "unk_token": "[UNK]"
+}
