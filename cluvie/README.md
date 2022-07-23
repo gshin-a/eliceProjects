@@ -1,5 +1,4 @@
-![image](/uploads/41dc520241f9829e9844864e8de0c19f/image.png)
-
+![팀로고](https://user-images.githubusercontent.com/81452535/180599482-50f9109d-4fbc-4ec3-8157-719b2241eb75.png)
 
 ## 1. **GitLab 링크**
 
@@ -13,7 +12,8 @@
 
 ### **🚩Cluvie의 기획 의도**
 
-![image](/uploads/a0678a113e1c85594c1af2883e6ca32b/image.png)
+![기획의도](https://user-images.githubusercontent.com/81452535/180599504-250ec667-0d87-4ba0-94a1-42cb8cf445ba.png)
+
 
   🤔 **문제 인식 -** 새로운 인간관계의 필요, 나와 취향이 비슷한 사람과 모일 수는 없을까?
 
@@ -26,7 +26,7 @@
 
   💰 **시장 가능성** - 팬데믹으로 몸집이 부푼 OTT 시장, 엔데믹으로 다시 회복 중인 극장가
 
-![image](/uploads/053d5a1c97c22fcbadf9efacf2cf25af/image.png)
+![시장가능성](https://user-images.githubusercontent.com/81452535/180599563-1c96e370-9bb6-42c8-a1a2-68aceb079d26.png)
 
 [출처: 헤럴드경제 뉴스](https://news.v.daum.net/v/20220628110949281)
 
@@ -37,7 +37,7 @@
 
 ### **🎬 Cluvie의 페르소나**
 
-![image](/uploads/fe2be847a771cc4318d6e9b2c0599f3e/image.png)
+![페르소나](https://user-images.githubusercontent.com/81452535/180599571-b8630aca-1ec4-4d1f-889e-7619b6991ccf.png)
 
 <aside>
 📎 영화 보기를 즐기고, 모임 서비스 이용에 거부감이 없는 젊은 층을 타겟으로 하는 모임 주선 
@@ -49,7 +49,7 @@
 
 ---
 
-![image](/uploads/f8b8cb232cf4c355b51b2795c2167840/image.png)
+![기술스택](https://user-images.githubusercontent.com/81452535/180599591-ee42147d-46a7-41b4-b983-57156f36e86d.png)
 
 ### 💻 프론트엔드
 
@@ -90,7 +90,7 @@
     - 배너에 영화 이미지 infinite carousel
     - 기준에 따라 일부 클럽 모집글 최대 10개씩 표시
         
-    ![클러비_-_메인페이지](/uploads/c385e7f9ba6813d28392be904a731f1a/클러비_-_메인페이지.gif)
+    ![클러비_메인페이지](https://user-images.githubusercontent.com/81452535/180599607-04507ad3-d717-48ec-a19f-3cf00e43f41f.gif)
         
 2. **로그인 페이지**
     - 이메일 아이디 및 비밀번호 유효성 검사
@@ -99,9 +99,9 @@
     - 각 input의 유효성 검사
     - 인증 메일 발송 및 확인
         
-        ![클러비_-회원가입1](/uploads/a42c50e66ffe7f9a559416de5aae069f/클러비_-회원가입1.gif)
-        ![클러비_-회원가입2](/uploads/c7521f3089e2c5c43be16ddc1240868f/클러비_-회원가입2.gif)
-        ![클러비_-회원가입3](/uploads/6e830dec5cf343a46ddb091433714fb0/클러비_-회원가입3.gif)
+        ![클러비_회원가입1](https://user-images.githubusercontent.com/81452535/180599691-05f6e8ea-1c3a-4879-92f2-318f0fbf05cf.gif)
+        ![클러비_회원가입2](https://user-images.githubusercontent.com/81452535/180599699-ee10ea5d-b3c2-4d57-92b6-399be6b07679.gif)
+        ![클러비_회원가입3](https://user-images.githubusercontent.com/81452535/180599702-a6edbf60-d32a-43e7-8601-bd80c1e1703a.gif)
         
 4. **클럽 생성 페이지**
     - 인공지능을 활용한 키워드 및 요약문 추출(해시태그와 한줄소개에 적용 가능)
@@ -109,9 +109,9 @@
     - React Quill 텍스트 에디터를 이용한 상세 모집글 작성
     - 작성 시 보여질 상세 페이지 미리보기 가능
     
-    ![클러비-클럽생성1](/uploads/cbdb395a695ff1f6fbf517e9fcdfbb92/클러비-클럽생성1.gif)
-    ![클러비-클럽생성2](/uploads/2aa8b4f9504f54f427c29030c38bd41a/클러비-클럽생성2.gif)
-    ![클러비-클럽생성3](/uploads/8c77e70f687d2ba7cfc1fab0b849d533/클러비-클럽생성3.gif)
+    ![클러비_클럽생성1](https://user-images.githubusercontent.com/81452535/180599824-789fad5d-db28-4f0d-8e70-d5b714ec8bce.gif)
+    ![클러비_클럽생성2](https://user-images.githubusercontent.com/81452535/180599828-a5370503-fac1-44b9-a5ac-07f984e93e95.gif)
+    ![클러비_클럽생성3](https://user-images.githubusercontent.com/81452535/180599830-81df1e27-5c9d-4e9b-867c-185dd4128137.gif)
 
 5. **전체 클럽 목록 페이지**
     - 무한 스크롤로 모든 클럽 모집글 카드 확인
@@ -121,7 +121,7 @@
     - 하나의 카드 클릭 시 해당 클럽 모집글 상세 페이지로 이동
     - (+) 버튼 클릭 시 클럽 생성 페이지로 이동
     
-    ![클러비-전체_클럽_목록](/uploads/675c3ccf8518bf92d904f8fbfc157c77/클러비-전체_클럽_목록.gif)
+    ![클러비-전체_클럽_목록](https://user-images.githubusercontent.com/81452535/180599840-ec09adfc-ec30-40b8-b10d-0c098b31f518.gif)
     
 6. **클럽 상세 페이지**
     1. 클럽 기본 카드
@@ -130,7 +130,7 @@
         - 클럽 신청하기/찜하기/공유하기
         - 클럽 수정/삭제(클럽장만 가능)
         
-       ![클러비_-_신청](/uploads/8e4e0d9c3b0b4cd0d18e0398f716bb78/클러비_-_신청.gif)
+       ![클러비-신청](https://user-images.githubusercontent.com/81452535/180599850-32f21b68-b347-48d2-85b0-4e267a568184.gif)
         
     2. 클럽 정보 탭
         - 클럽 생성 시 작성한 기본 정보 및 상세 정보 표시
@@ -139,10 +139,8 @@
         - 참여 후기 확인
         - 평균 별점 확인
     
-    ![클러비-상세페이지1](/uploads/dcd6dad64582ee8ca6ea2d765dcd558d/클러비-상세페이지1.gif)
-
-    ![클러비-상세페이지2](/uploads/1534e9b68bd536139806c950e175d907/클러비-상세페이지2.gif)
-    
+    ![클러비-상세페이지1](https://user-images.githubusercontent.com/81452535/180599855-d03895c7-07c5-445d-884b-c1ed9baf4cba.gif)
+    ![클러비-상세페이지2](https://user-images.githubusercontent.com/81452535/180599861-48a9881b-99f7-4c54-b797-f1f452a4a95e.gif)
     
 7. **클럽 수정 페이지**
     - 기존에 작성한 클럽 정보 확인 가능
@@ -159,7 +157,7 @@
     2. 내가 클럽원인 클럽 탭
         - 가입된 클럽 중 모집마감된 클럽의 클럽장 및 클럽원 목록 확인 가능
     
-    ![클러비-내클럽리스트](/uploads/ec0bea49e248480af1d7e40e9bb6134c/클러비-내클럽리스트.gif)
+    ![클러비-내클럽리스트](https://user-images.githubusercontent.com/81452535/180599872-2e293b70-253d-4fb9-bd7f-a07fbc0d53d7.gif)
     
 9. **마이페이지**
     1. 프로필 카드
@@ -173,7 +171,7 @@
         - 찜한 클럽 목록 확인
         - 클럽 찜하기/찜해제
     
-    ![클러비-마이페이지](/uploads/b320428df1a04464180f8284f570c668/클러비-마이페이지.gif)
+    ![클러비-마이페이지](https://user-images.githubusercontent.com/81452535/180599896-e7d07682-0e30-4ec7-928a-e54f8b8b9bea.gif)
     
 
 ## 5. 프로젝트 구성도
@@ -189,10 +187,10 @@
 
 ---
 
-| 이름 | 역할 | 담당 부분 | GitHub |
-| --- | --- | --- | --- |
-| 장소영 | 팀장, 백엔드  |  클럽 스키마 설계 <br> 클럽 관련 API 작성 <br> 무한 스크롤 API 작성 <br> Flask API 연결 | [링크](https://github.com/Ssoyoung-J) |
-| 유수지 | 백엔드 |  데이터 테이블 구상 <br> 회원가입 및 로그인 API 작성 <br> 메인페이지 API 작성 <br> 필터링에 맞는 sql문 작성하여 데이터 select <br> 찜하기 및 신청하기 기능 API 작성 | [링크](https://github.com/Suzzzzzy) |
-| 이시은 | 프론트엔드 | 와이어프레임 제작 <br> 메인 <br> 로그인 및 회원가입 <br> 전체 클럽 목록 <br> 클럽 생성 (기본 정보 작성) | [링크](https://github.com/leewol) |
-| 신가현 | 프론트엔드 | 와이어프레임 제작 <br> 헤더 <br> 내 클럽 목록 <br> 마이페이지 <br> 클럽 상세 <br> 클럽 생성 (상세 정보 작성, 인공지능 API 연동, 미리보기) 및 수정 | [링크](https://github.com/gshin-a) |
-| 성기환 | 인공지능 | Flask API 작성 <br> 요약문 생성, 혐오 표현 탐지, 키워드 추출, 개체명인식 AI 모델 전이학습 | [링크](https://github.com/sungkihwan) |
+| 이름 | 역할 | 담당 부분 |
+| --- | --- | --- |
+| 장소영 | 팀장, 백엔드  |  클럽 스키마 설계 <br> 클럽 관련 API 작성 <br> 무한 스크롤 API 작성 <br> Flask API 연결 |
+| 유수지 | 백엔드 |  데이터 테이블 구상 <br> 회원가입 및 로그인 API 작성 <br> 메인페이지 API 작성 <br> 필터링에 맞는 sql문 작성하여 데이터 select <br> 찜하기 및 신청하기 기능 API 작성 |
+| 이시은 | 프론트엔드 | 와이어프레임 제작 <br> 메인 <br> 로그인 및 회원가입 <br> 전체 클럽 목록 <br> 클럽 생성 (기본 정보 작성) |
+| 신가현 | 프론트엔드 | 와이어프레임 제작 <br> 헤더 <br> 내 클럽 목록 <br> 마이페이지 <br> 클럽 상세 <br> 클럽 생성 (상세 정보 작성, 인공지능 API 연동, 미리보기) <br> 클럽 수정 |
+| 성기환 | 인공지능 | Flask API 작성 <br> 요약문 생성, 혐오 표현 탐지, 키워드 추출, 개체명인식 AI 모델 전이학습 |
